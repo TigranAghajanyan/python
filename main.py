@@ -1,1 +1,2 @@
-print("Samiy luchshiy den zaxadil vchera..")
+print("Hello world")
+
